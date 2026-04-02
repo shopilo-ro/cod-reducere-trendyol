@@ -1,0 +1,22 @@
+{
+  "name": "cod-reducere-trendyol",
+  "version": "1.0.0",
+  "description": "Fetch automat de coduri de reducere Trendyol de pe shopilo.ro",
+  "main": "index.js",
+  "keywords": [
+    "cod-reducere",
+    "cod-reducere-trendyol",
+    "voucher-trendyol",
+    "cupon-trendyol",
+    "reduceri",
+    "shopilo",
+    "cupoane"
+  ],
+  "author": "shopilo-ro",
+  "license": "MIT",
+  "homepage": "https://shopilo.ro/magazin/trendyol.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-ro/cod-reducere-trendyol.git"
+  }
+}
